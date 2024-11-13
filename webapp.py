@@ -7,10 +7,10 @@ from sklearn.preprocessing import LabelEncoder, OrdinalEncoder, StandardScaler
 
 df = pd.read_csv("youth_smoking_drug_data_10000_rows_expanded.csv")
 
-with open('models/smoking_model.sav', 'rb') as file:
+with open('Smoking_model.sav', 'rb') as file:
     smoking_model = pickle.load(file)
 
-with open('models/drug_model.sav', 'rb') as file:
+with open('Drug_model.sav', 'rb') as file:
     drug_model = pickle.load(file)
 
 # Streamlit App Interface
