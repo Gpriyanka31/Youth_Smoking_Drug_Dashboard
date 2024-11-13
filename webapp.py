@@ -7,14 +7,10 @@ from sklearn.preprocessing import LabelEncoder, OrdinalEncoder, StandardScaler
 
 df = pd.read_csv("youth_smoking_drug_data_10000_rows_expanded.csv")
 
-# Ensure the correct path is being used
-model_path = os.path.abspath('smoking_model.sav')
-with open(model_path, 'rb') as file:
+with open('smoking_model.sav', 'rb') as file:
     smoking_model = pickle.load(file)
 
-# Ensure the correct path is being used
-model_path = os.path.abspath('drug_model.sav')
-with open(model_path, 'rb') as file:
+with open('drug_model.sav', 'rb') as file:
     drug_model = pickle.load(file)
 
 # Streamlit App Interface
