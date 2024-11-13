@@ -5,7 +5,7 @@ import pickle
 import os
 from sklearn.preprocessing import LabelEncoder, OrdinalEncoder, StandardScaler
 
-df = pd.read_csv(r"C:\Users\Hp\Downloads\youth_smoking_drug_data_10000_rows_expanded.csv")
+df = pd.read_csv("youth_smoking_drug_data_10000_rows_expanded.csv")
 
 # Ensure the correct path is being used
 model_path = os.path.abspath('smoking_model.sav')
