@@ -9,6 +9,13 @@ or connect with me on LinkedIn : **https://www.linkedin.com/in/priyanka-gupta-50
 
 ---
 
+## Youth Smoking & Drug Experimentation Analysis
+
+📊 Built apredictive analytics project to explore factors influencing smoking and drug use among youth.
+✅ Used Python (Pandas, Scikit-learn) for data cleaning, EDA, regression & classification modeling.
+🔍 Identified key drivers like mental health, media influence, and parental supervision.
+🚀 Developed a Streamlit app to make real-time predictions and visualize risk factors.
+
 ## 📌 Future Improvements
 
 - Integrate SHAP/LIME for model explainability
