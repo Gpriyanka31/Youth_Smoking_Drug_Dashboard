@@ -9,13 +9,6 @@ or connect with me on LinkedIn : **https://www.linkedin.com/in/priyanka-gupta-50
 
 ---
 
-## 🌐 App Demo
-
-You can interact with the deployed Streamlit app here:  
-📎 https://youthsmokedrugdashboard.streamlit.app
-
----
-
 ## 📌 Future Improvements
 
 - Integrate SHAP/LIME for model explainability
