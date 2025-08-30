@@ -1,14 +1,19 @@
 ## Youth Smoking & Drug Experimentation Analysis
 
 📊 Built apredictive analytics project to explore factors influencing smoking and drug use among youth.
+
 ✅ Used Python (Pandas, Scikit-learn) for data cleaning, EDA, regression & classification modeling.
+
 🔍 Identified key drivers like mental health, media influence, and parental supervision.
+
 🚀 Developed a Streamlit app to make real-time predictions and visualize risk factors.
 
 ## 📌 Future Improvements
 
 - Integrate SHAP/LIME for model explainability
+- 
 - Add temporal analysis to track risk across academic years
+- 
 - Collect user feedback from school counselors and health experts
 
 ---
@@ -23,7 +28,9 @@ Special thanks to **Masai School** for providing guidance, mentorship, and hands
 
 **Priyanka Gupta**  
 📧 [contactpriyankagupta31@gmail.com]  
+
 🔗 [LinkedIn](https://www.linkedin.com/in/priyanka-gupta-50988199)  
+
 📁 [Portfolio](https://github.com/Gpriyanka31)
 
 ---
